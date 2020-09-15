@@ -6,4 +6,5 @@ A line I wrote on my local computer
 New line from local computer
 adding a line to test credentials
 final test credentials
-Modified in RStudio
+Modified in RStudio 
+\n added from Github
